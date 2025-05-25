@@ -1,0 +1,27 @@
+# VibeNet – Photo Sharing Feed Website
+
+This project is part of the **VibeNet** social networking platform, designed as a dynamic photo-sharing feed similar to Instagram. The core objective of this component is to provide users with a responsive and interactive interface for viewing and engaging with shared visual content.
+
+## 📌 Features
+
+- Responsive image grid layout
+- Real-time photo rendering using JavaScript
+- Like button with toggle interaction
+- Modal photo viewer for full-screen display
+- Smooth animations and transitions
+- Mobile-friendly and cross-browser compatible
+
+## 🛠️ Technologies Used
+
+- **HTML** – Structuring the layout
+- **CSS** – Styling and responsive design
+- **JavaScript** – Interactivity and dynamic content rendering
+- **VS Code** – Development environment
+- **Chrome DevTools** – Debugging and testing
+
+## 🧩 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/vibenet-feed.git
+   cd vibenet-feed
