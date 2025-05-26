@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Sharanya S</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharugowda-123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sharugowda-123?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
 # 📸 VibeNet
 
 A modern, vibrant social networking platform for sharing photos and vibes with the world.
@@ -48,10 +56,21 @@ A modern, vibrant social networking platform for sharing photos and vibes with t
 
 ---
 
-## 🧰 Getting Started
+## 📊 GitHub Stats
 
-```bash
-git clone https://github.com/sharugowda-123/VibeNet-Project.git
-cd VibeNet-Project
-npm install
-npm start
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharugowda-123&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharugowda-123&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📁 [Portfolio](https://your-portfolio-link.com) 
+- 📬 Email: *sharanya.s@s.amity.edu*
+
+---
+
+<p align="center">Thanks for visiting! ✨</p>
