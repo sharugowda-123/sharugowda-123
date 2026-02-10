@@ -1,60 +1,77 @@
-<h1 align="center">Hey 👋, I'm Sharanya S</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h1 align="center">Heyy, I'm Sharanya S</h1>
+<h3 align="center"> AI Automation | Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharugowda-123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/sharugowda-123?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+# 🌸 HerInsight
 
-# 📸 VibeNet
+**HerInsight** is a web-based PCOS risk awareness tool designed to promote early health awareness among women.  
+It helps users understand potential risk levels based on common PCOS-related symptoms.
 
-A modern, vibrant social networking platform for sharing photos and vibes with the world.
-
-[*Explore the code »*](https://github.com/sharugowda-123/VibeNet-Project)
-
----
-
-## 📚 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Features](#-features)
-- [Built With](#-built-with)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
+> ⚠️ This tool is for **awareness purposes only** and is **not a medical diagnosis**.
 
 ---
 
-## 🧠 About the Project
+## 🌷 Features
 
-*VibeNet* is a photo-sharing social networking platform where users can upload photos, view feeds, and engage with the community through likes and comments.
-
-![VibeNet Screenshot](assets/vibenet_screenshot.png)
-
----
-
-## 🚀 Features
-
-- 📷 Upload and share photos
-- 📰 Browse social feed
-- 💬 Like and comment
-- 🧑‍🤝‍🧑 Follow/Unfollow
-- 🔎 Discover trending posts
-- 🔐 Authentication
-- 🖼️ User profiles
+- Simple and user-friendly interface
+- PCOS symptom-based risk assessment
+- Rule-based logic for transparent evaluation
+- Clean, responsive design
+- Accessible on any device via web browser
 
 ---
 
-## 🛠️ Built With
+## 🧠 How It Works
 
-- *Frontend*: HTML, CSS, JavaScript
-- *Backend*: Node.js, Express
-- *Database*: MongoDB
-- *Auth*: JWT
-- *Storage*: Cloudinary (or similar)
+- Users select symptoms they are experiencing
+- Each selected symptom adds one point
+- The total score is calculated
+- Based on the score, the tool categorizes risk as:
+  - Low Risk
+  - Moderate Risk
+  - High Risk
+- Users are encouraged to seek medical advice if risk is moderate or high
 
 ---
+
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages (for deployment)
+
+---
+
+## 🌍 Live Demo
+
+🔗 https://sharugowda-123.github.io/HerInsight/
+
+---
+
+## 💡 Future Enhancements
+
+- Personalized health tips
+- Improved UI animations
+- AI-based insights (future scope)
+- Additional women’s health assessments
+
+---
+
+## 🤍 Disclaimer
+
+HerInsight does not provide medical advice or diagnosis.  
+Always consult a qualified healthcare professional for medical concerns.
+
+---
+
+## ✨ Author
+
+Developed with care to promote women’s health awareness 💗
+
 
 ## 📊 GitHub Stats
 
